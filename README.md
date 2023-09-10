@@ -1,16 +1,2 @@
-# dreamy
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Dreamy
+A wallpaper application made into a world where screens are canvases for curated elegance. Immerse yourself in a selection of handpicked wallpapers that transform your digital spaces into works of art. From minimalist chic to captivating vistas, each wallpaper is a masterpiece.
